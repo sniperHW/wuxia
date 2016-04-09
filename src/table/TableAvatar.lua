@@ -1,0 +1,7 @@
+TableAvatar = TableAvatar or { 
+[1001] = { ["ModelID"] = 1001, ["Scale"] = 0.50000000, ["Head"] = {"Icon/Battle_Npc01_Icon1.png","Icon/Battle_Npc01_Icon2.png"}, ["Size"] = {width=60,height=100}, ["CommonState"] = [[state_normal1]], ["CommonSkill"] = 2012, ["UniqueState"] = [[state_unique1]], ["UniqueSkill"] = 2011},
+[1002] = { ["ModelID"] = 1002, ["Scale"] = 0.50000000, ["Head"] = {"Icon/Battle_Npc02_Icon1.png","Icon/Battle_Npc02_Icon2.png"}, ["Size"] = {width=60,height=100}, ["CommonState"] = [[state_normal1]], ["CommonSkill"] = 3012, ["UniqueState"] = [[state_unique1]], ["UniqueSkill"] = 3011},
+[1003] = { ["ModelID"] = 1003, ["Scale"] = 0.50000000, ["Head"] = {"Icon/Battle_Npc03_Icon1.png","Icon/Battle_Npc03_Icon2.png"}, ["Size"] = {width=60,height=100}, ["CommonState"] = [[state_normal1]], ["CommonSkill"] = 4012, ["UniqueState"] = [[state_unique1]], ["UniqueSkill"] = 4011},
+[1004] = { ["ModelID"] = 1004, ["Scale"] = 0.50000000, ["Size"] = {width=60,height=100}, ["CommonState"] = [[state_normal1]], ["CommonSkill"] = 5012, ["UniqueState"] = [[state_unique1]], ["UniqueSkill"] = 5011},
+[1005] = { ["ModelID"] = 1005, ["Scale"] = 0.50000000, ["Size"] = {width=60,height=100}, ["CommonState"] = [[state_normal1]], ["CommonSkill"] = 6012, ["UniqueState"] = [[state_unique1]], ["UniqueSkill"] = 6011}
+}
